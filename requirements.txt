@@ -1,0 +1,6 @@
+networkx>=2.8
+pip install python-louvain==0.16
+matplotlib>=3.5
+numpy>=1.21
+scipy>=1.7
+tqdm>=4.64
